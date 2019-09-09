@@ -4,6 +4,9 @@
 
 https://www.linkedin.com/in/bryangilbertsoftware
 
+> This CV is not complete. Several sections need further edits 
+
+
 Bryan is a collaborative team player with advanced agile software development experience.  He enjoys finding creative solutions to complex business problems. He is open minded and resourceful, self-motivated and dedicated to building a quality product.  Key value words that fit Bryan include; open, sharing, respectful, accountable, and results oriented. He works well under pressure, effectively meets deadlines and enjoys working within in a consensus-based environment.  Bryan enjoys mentoring and sharing knowledge.  Recently he started a meetup group and has hosted open workshops for people to learn more about DevOps and Full Stack development.
 
 ## Project: DevOp Full Stack Development Meetup
