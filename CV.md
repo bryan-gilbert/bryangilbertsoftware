@@ -83,6 +83,7 @@ languages and frameworks, and a cutting-edge enterprise containerization platfor
 
 - Technical skills: Angular, JavaScript, SCSS, CSS, JSON, RESTful APIs, MongoDB, ETL, Nginx, WebStorm, Git, OpenShift, Agile, Scrum, Slack, JIRA, Continuous Integration.
  
+Reference as mentor available on request.
 
 ## Project: Custom case management system
 - Organization: Carmanah Technologies
