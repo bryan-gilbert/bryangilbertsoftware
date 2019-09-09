@@ -90,7 +90,7 @@ languages and frameworks, and a cutting-edge enterprise containerization platfor
 - Organization: Carmanah Technologies
 - 2014 – 2018
 
-WIP
+> WIP
 - Objective: Implement a new case management system, in Salesforce, to reduce the work load and increase 
 the quality of service delivered by the technical support staff. Enable staffing levels to be reduced 
 from ten to three people while allowing for nearly twice the amount of business.
@@ -109,7 +109,7 @@ programming language), Salesforce Object Query Language (SOQL)
 - Organization: Carmanah Technologies
 - 2009 – 2014
 
-WIP
+> WIP
 - Position Outcomes:
 - Senior Software Developer (certified Salesforce Administrator)
 1.	The major ERP initiative came in on time and on budget. The simulator were critical components to enable 
@@ -132,7 +132,7 @@ Strong emphasis on incremental delivery of value.
 
 ## Project: Global satellite monitoring system for marine solar powered lanterns.
 
-WIP
+> WIP
 - Position Outcomes:
     - Designed and developed a global satellite monitoring system including micro web services, as well as, front end web application with user access management services.  Built a configure to order (CTO) product validation engine and technical specification generator which produced detailed project specification documents based on custom product configurations.  Bryan also mentored several coop students.
 - Technical skills: Java, Eclipse, SWT, HTML5, JavaScript, jQuery, CSS, JSON, PHP, RESTful APIs, Git, 
@@ -184,11 +184,10 @@ provide value.
     - Reduced the time to implement from the budgeted three months to a few weeks.
 
 
-
-
 ## Education:
 - University of Victoria
-    - Masters of Science, in Computer Science. Thesis on Network Reliability. Recipient of the University of Victoria Graduate Fellowship
+    - Masters of Science, in Computer Science. Thesis on Network Reliability. 
+    - Recipient of the University of Victoria Graduate Fellowship
 	- Bachelor of Science, Honors, in Computer Science.
 
 ## Interests:
@@ -202,7 +201,6 @@ Andy Canty.
 - July 26, 2012, Andy managed Bryan directly
 
 > This is an endorsement for Bryan Gilbert who I worked with while Manager of IT at Carmanah Technologies. Bryan and I worked together on some great projects. The fact that they ranged across Engineering, Customer Services, Sales and Marketing, etc. gives you an idea of Bryan’s terrific versatility. Bryan is a solution provider over software developer. He clarifies the business need, always keeps efficiency/usability/scalability at the forefront of his work, and has a deep understanding of the software development process. The ideas sessions we had were some of the liveliest and most enjoyable I have been involved in. Bryan is continuously adding new skills to his portfolio (e.g. Salesforce certification) and mentoring others. I would jump at the chance to work with Bryan again and advise you to do the same
-
 
 Trevor Hurst
 - Currently:  Executive Director at KPMG Canada
@@ -219,7 +217,7 @@ In short if you have have the opportunity to seek Brian's assistance with a proj
 hesitate.
 
 
-- Dave Kichler
+Dave Kichler
 - Currently: Engineering Lead at Kashoo - Simple Cloud Accounting
 - March 4, 2010, Dave reported directly to Bryan
 
@@ -231,14 +229,14 @@ project/time management magic, hitting our milestones would have been hopeless. 
 designer/developer is undeniable.
 
 
-- Cathy Lim
+Cathy Lim
 - Currently: HR Director at Hothead Games
 - November 2, 2009, Cathy worked with Bryan in different groups
 
 > Bryan was a wonderful hire for Carmanah - his positive attitude and ability to hit the ground running had such an immediate impact on Carmanah's technology. I would gladly work with Bryan again and I wish him well with his future successes with Carmanah.
 
 
-- Upkar Lidder
+Upkar Lidder
 - Currently:  Full Stack Developer and Data Wrangler with strong experience in Java, NodeJS and Python.
 - April 15, 2009, Bryan was senior to Upkar but didn’t manage directly
 
