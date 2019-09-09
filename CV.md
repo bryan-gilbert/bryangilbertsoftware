@@ -83,7 +83,7 @@ languages and frameworks, and a cutting-edge enterprise containerization platfor
 
 - Technical skills: Angular, JavaScript, SCSS, CSS, JSON, RESTful APIs, MongoDB, ETL, Nginx, WebStorm, Git, OpenShift, Agile, Scrum, Slack, JIRA, Continuous Integration.
  
-Reference as mentor available on request.
+- Reference as mentor available on request.
 
 ## Project: Custom case management system
 - Organization: Carmanah Technologies
@@ -121,6 +121,7 @@ and web services
 Hg, Debian, Apache, Tomcat, OSGi, Drupal, WordPress, PHP, Salesforce, APEX, B2B, CRM, ERP, CTO, Oracle, 
 SQL, ETL, Mobile responsive design,
 
+- See below for references by Andy Canty, Trevor Hurst, Dave Kichler and Cathy Lim
  
 ## Project: Global satellite monitoring system for marine solar powered lanterns.
 - Organization: Carmanah Technologies
@@ -140,6 +141,7 @@ SQL, ETL, Mobile responsive design,
     - Member of Agile team that provided design and development of the IBM WYSIWYG XForms Designer
 - Technical skills: Java, Eclipse, OSGi, JSP, JSTL, RESTful APIs, XML, MVC, SWT, SQL, Agile, Scrum, Continuous development, Hg, I18N (managed translation process with international team).
 
+- See below for references by Upkar Lidder
 
 ## Project: Energy Management System
 - Organization: Power Measurement Ltd (now Schneider Electric)
