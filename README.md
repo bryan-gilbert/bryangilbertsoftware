@@ -1,15 +1,18 @@
-# bryangilbertsoftware
-> a CV for Bryan Gilbert B.Sc.(Hon), M.Sc.
+# Bryan Gilbert
+
+> a CV for Bryan Gilbert, B.Sc.(Hon), M.Sc.  Full Stack DevOps
 
 https://www.linkedin.com/in/bryangilbertsoftware
-Full Stack DevOps
 
 Bryan is a collaborative team player with advanced agile software development experience.  He enjoys finding creative solutions to complex business problems. He is open minded and resourceful, self-motivated and dedicated to building a quality product.  Key value words that fit Bryan include; open, sharing, respectful, accountable, and results oriented. He works well under pressure, effectively meets deadlines and enjoys working within in a consensus-based environment.  Bryan enjoys mentoring and sharing knowledge.  Recently he started a meetup group and has hosted open workshops for people to learn more about DevOps and Full Stack development.
 
-DevOp Full Stack Development Meetup
-Since May 2019
-https://www.meetup.com/DevOp-Full-Stack-Development-Meetup/
-Explore aspects of full stack DevOps with a focus on these technologies: Docker, Node.js, Express, MongoDB, and Vue.js. Open to all levels of experience and interest. I've been studying and using these technologies and want to share what I know and learn from others. Providing workshops for people to learn these technologies.
+## Project: DevOp Full Stack Development Meetup
+- Since May 2019
+- https://www.meetup.com/DevOp-Full-Stack-Development-Meetup/
+- Objective: Explore aspects of full stack DevOps with a focus on these technologies: 
+Docker, Node.js, Express, MongoDB, and Vue.js. Open to all levels of experience and interest. 
+This is a chance to share knowledge and to learn from others. 
+Providing workshops for people to learn these technologies.
 
 
 ##Project: Educational Electronic Health Record System
@@ -43,7 +46,7 @@ Explore aspects of full stack DevOps with a focus on these technologies: Docker,
 - Technical skills: VUE.js, Vuex, React, Webpack, Babel, JavaScript, Node JS, Nginx, Express, Debian, 
 UFW, HTTPs, Jade (Pug), Docker, Docker-compose, MongoDB, SCSS,  Git, Mocha, Chai, Supertest, and more
 
-References available on request
+- References available on request
 
 
 
@@ -51,18 +54,22 @@ References available on request
 ## Major Mines Transparency Project of the Ministry of Energy and Mines
 - Organization: contracted by Quartech Technologies
 - January – August 2017
-- Objective: replace the legacy information system with a modern technology stack that supports continuous delivery and integration of digital products through DevOps practices.  Achieved improved efficiency and transparency of the provincial environmental assessment processes that provide citizens and stakeholders with more intuitive access to project data and information.
-The project was based at the Province's Continuous Service Improvement (CSI) Lab
-where developers are encouraged to experiment with modern product delivery tools and techniques including: the Agile Methodology, human-centred design, open source programming languages and frameworks, and a cutting-edge enterprise containerization platforms. 
-
+- Objective: replace legacy information system with a modern technology stack that supports 
+continuous delivery and integration of digital products through DevOps practices.  
+- These are open-source projects:  
+    - https://github.com/bcgov/esm-server
+    - https://github.com/bcgov/mem-admin
+    - https://github.com/bcgov/mem-mmti
 - Position Outcomes:
+    - Achieve improved efficiency and transparency of the provincial environmental assessment 
+processes that provide citizens and stakeholders with more intuitive access to project data and 
+information.
+    - The project was based at the Province's Continuous Service Improvement (CSI) Lab
+where developers are encouraged to experiment with modern product delivery tools and 
+techniques including: the Agile Methodology, human-centred design, open source programming 
+languages and frameworks, and a cutting-edge enterprise containerization platforms. 
     - Provide full stack MEAN development skills (MongoDB, Express, Angular, Node) 
-    - Work at the Province’s Continuous Service Improvement (CSI) Lab
     - Add features and perform maintenance on the applications using Angular, Javascript, NodeJS, MongoDb, Mongoose, Openshift, etc.
-    - These are open-source projects:  
-        - https://github.com/bcgov/esm-server
-        - https://github.com/bcgov/mem-admin
-        - https://github.com/bcgov/mem-mmti
     - Agile team consisted of key ministry personal, project management, developers and DevOps
     - 7th top contributor to ESM-server project (139 total contributors since 2013)
     - 10th top contributor to MEM project (137 total contributors since 2013)
@@ -79,6 +86,8 @@ where developers are encouraged to experiment with modern product delivery tools
 ## Project: Custom case management system
 - Organization: Carmanah Technologies
 - 2014 – 2018
+
+WIP
 - Objective: Implement a new case management system, in Salesforce, to reduce the work load and increase 
 the quality of service delivered by the technical support staff. Enable staffing levels to be reduced 
 from ten to three people while allowing for nearly twice the amount of business.
@@ -96,6 +105,8 @@ programming language), Salesforce Object Query Language (SOQL)
 ## Project: Solar product configure to order (CTO) for integration with Salesforce CRM and Oracle EBS Configurator.
 - Organization: Carmanah Technologies
 - 2009 – 2014
+
+WIP
 - Position Outcomes:
 - Senior Software Developer (certified Salesforce Administrator)
 1.	The major ERP initiative came in on time and on budget. The simulator were critical components to enable 
@@ -105,7 +116,6 @@ selling solar powered products.
 - Technical skills: Java, Eclipse, SWT, HTML5, JavaScript, jQuery, CSS, JSON, PHP, RESTful APIs, Git, 
 Hg, Debian, Apache, Tomcat, OSGi, Drupal, WordPress, PHP, Salesforce, APEX, B2B, CRM, ERP, CTO, Oracle, 
 SQL, ETL, Mobile responsive design,
-
 
  
 Working closely with all levels of the organization Bryan designed and built various software tools that 
@@ -118,6 +128,8 @@ Strong emphasis on incremental delivery of value.
 
 
 ## Project: Global satellite monitoring system for marine solar powered lanterns.
+
+WIP
 - Position Outcomes:
     - Designed and developed a global satellite monitoring system including micro web services, as well as, front end web application with user access management services.  Built a configure to order (CTO) product validation engine and technical specification generator which produced detailed project specification documents based on custom product configurations.  Bryan also mentored several coop students.
 - Technical skills: Java, Eclipse, SWT, HTML5, JavaScript, jQuery, CSS, JSON, PHP, RESTful APIs, Git, 
@@ -140,13 +152,18 @@ SQL, ETL, Mobile responsive design,
 - Organization: Power Measurement Ltd (now Schneider Electric)
 - 1996 - 2004
 - Position Outcomes:
+    - Application development providing components of the PML flagship energy management system
+    - Embedded software development with a specialty on serial and TCP communications systems
+- Technical skills: Visual Studio, C++, C, CVS, MVC, Object Oriented, SQL
+
+## Project: Customer service issue management system
+- Organization: Power Measurement Ltd (now Schneider Electric)
+- 1996 - 2004
+- Position Outcomes:
     - Built software to automate handling of incoming and outgoing email (Microsoft Exchange/Outlook) with 
     the company's CRM (onyx)
-    - Application development providing components of an energy management system
-    - Embedded software development with a specialty on serial and TCP communications systems
     - Technical team building and training.
-- Technical skills: Visual Studio, C++, C, CVS, MVC, Object Oriented, SQL, 
-Microsoft Exchange/Outlook, Visual Basic, .NET, C#
+- Technical skills: SQL, Microsoft Exchange/Outlook, Visual Basic, .NET, C#
 
 
 ## Project: Mainframe application refactoring
