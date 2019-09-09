@@ -4,21 +4,19 @@
 
 https://www.linkedin.com/in/bryangilbertsoftware
 
-> This CV is not complete. Several sections need further edits 
-
-
 Bryan is a collaborative team player with advanced agile software development experience.  He enjoys finding creative solutions to complex business problems. He is open minded and resourceful, self-motivated and dedicated to building a quality product.  Key value words that fit Bryan include; open, sharing, respectful, accountable, and results oriented. He works well under pressure, effectively meets deadlines and enjoys working within in a consensus-based environment.  Bryan enjoys mentoring and sharing knowledge.  Recently he started a meetup group and has hosted open workshops for people to learn more about DevOps and Full Stack development.
 
 ## Project: DevOp Full Stack Development Meetup
 - Since May 2019
 - https://www.meetup.com/DevOp-Full-Stack-Development-Meetup/
 - Objective: Explore aspects of full stack DevOps with a focus on these technologies: 
-Docker, Node.js, Express, MongoDB, and Vue.js. Open to all levels of experience and interest. 
-This is a chance to share knowledge and to learn from others. 
-Providing workshops for people to learn these technologies.
+Docker, Node.js, Express, MongoDB, and Vue.js. 
+    - Open to all levels of experience and interest. 
+    - This is a chance to share knowledge and to learn from others. 
+    - Providing workshops for people to learn these technologies.
 
 
-##Project: Educational Electronic Health Record System
+## Project: Educational Electronic Health Record System
 - Organization: BCcampus
 - September 2018 – October 2019
 - Objective: develop an open-source pilot ready application that simulates an electronic health record system similar to that used in hospitals for use in a post secondary medical education.  Until now medical students had no exposure to this critical technological aspect of their profession.
@@ -88,57 +86,49 @@ languages and frameworks, and a cutting-edge enterprise containerization platfor
 
 ## Project: Custom case management system
 - Organization: Carmanah Technologies
-- 2014 – 2018
-
-> WIP
+- 2012 to 2018
 - Objective: Implement a new case management system, in Salesforce, to reduce the work load and increase 
-the quality of service delivered by the technical support staff. Enable staffing levels to be reduced 
-from ten to three people while allowing for nearly twice the amount of business.
+the quality of service delivered by the technical support staff. 
 
 - Position Outcomes:
-    - requirements gathering, design and architect solutions
-    - develop web interfaces using Lightening component frameworks and VisualForce pages
-    - develop back-end services with APEX (a Java like language) 
+    - Enable staffing levels to be reduced from ten to three people while allowing for nearly twice the amount of business.
+    - Requirements gathering, design and architect solutions
+    - Develop web interfaces using Salesforce Lightening component frameworks and VisualForce pages
+    - Develop back-end services with APEX (a Java like language) 
     - Salesforce cloud computing software as a service (Saas) development
-    - data migrations, extractions, purges, 
-- Technical skills: Salesforce, JavaScript, Lightening Force, APEX (Apex is a strongly typed, object-oriented 
+    - Data migrations, extractions, purges, 
+- Technical skills: Salesforce (certified Salesforce Administrator), JavaScript, Lightening Force, APEX (Apex is a strongly typed, object-oriented 
 programming language), Salesforce Object Query Language (SOQL)
 - Reference available on request
 
 ## Project: Solar product configure to order (CTO) for integration with Salesforce CRM and Oracle EBS Configurator.
 - Organization: Carmanah Technologies
-- 2009 – 2014
-
-> WIP
+- 2009 to 2013
 - Position Outcomes:
-- Senior Software Developer (certified Salesforce Administrator)
-1.	The major ERP initiative came in on time and on budget. The simulator were critical components to enable 
-selling solar powered products.
-1.	Technical architect and developer of custom configure to order (CTO), solar product simulation (Dharma) and Salesforce CRM as integral components of a larger corporate transition to Oracle EBS with iStore, Configurator.
-
+    - Technical architect and developer of custom configure to order (CTO), solar product simulation and Salesforce CRM as integral components of a larger corporate transition to Oracle EBS with iStore, Configurator.
+    - The ERP initiative came in on time and on budget. The simulator was a critical components to enable 
+selling solar powered product
+    - Working closely with all levels of the organization Bryan designed and built software applications that 
+made it easy for end customers to purchase and use solar products.  Unlike most products, solar products are 
+location and configuration dependent.  To remove any barriers the buyer might have to purchase these products 
+it is necessary to provide easy to use selection tools that are based on sophisticated solar product simulation 
+and web services
+    - Built a configure to order (CTO) product validation engine and technical specification generator which produced detailed project specification documents based on custom product configurations.
+    - Mentored several coop students.
+    - Strong emphasis on incremental delivery of value.  
 - Technical skills: Java, Eclipse, SWT, HTML5, JavaScript, jQuery, CSS, JSON, PHP, RESTful APIs, Git, 
 Hg, Debian, Apache, Tomcat, OSGi, Drupal, WordPress, PHP, Salesforce, APEX, B2B, CRM, ERP, CTO, Oracle, 
 SQL, ETL, Mobile responsive design,
 
  
-Working closely with all levels of the organization Bryan designed and built various software tools that 
-made it easy for end customers to purchase and use solar products.  Unlike most products, solar products are 
-location and configuration dependent.  To remove any barriers the buyer might have to purchase these products 
-it is necessary to provide easy to use selection tools that are based on sophisticated solar product simulation 
-and web services.  
-
-Strong emphasis on incremental delivery of value.  
-
-
 ## Project: Global satellite monitoring system for marine solar powered lanterns.
-
-> WIP
+- Organization: Carmanah Technologies
+- 2013 to 2014
 - Position Outcomes:
-    - Designed and developed a global satellite monitoring system including micro web services, as well as, front end web application with user access management services.  Built a configure to order (CTO) product validation engine and technical specification generator which produced detailed project specification documents based on custom product configurations.  Bryan also mentored several coop students.
+    - Designed and developed a global satellite monitoring system including micro web services, as well as, front end web application with user access management services.    
 - Technical skills: Java, Eclipse, SWT, HTML5, JavaScript, jQuery, CSS, JSON, PHP, RESTful APIs, Git, 
 Hg, Debian, Apache, Tomcat, OSGi, Drupal, WordPress, PHP, Salesforce, APEX, B2B, CRM, ERP, CTO, Oracle, 
 SQL, ETL, Mobile responsive design,
-
 
 
 ## Project: WYSIWYG XForms Designer 
@@ -146,14 +136,13 @@ SQL, ETL, Mobile responsive design,
 - 2004 to 2009
 - Position Outcomes:
     - Working with Java, in Eclipse RCP, developed software for users to build XFDL eForms.
-    - software developer
     - Member of Agile team that provided design and development of the IBM WYSIWYG XForms Designer
 - Technical skills: Java, Eclipse, OSGi, JSP, JSTL, RESTful APIs, XML, MVC, SWT, SQL, Agile, Scrum, Continuous development, Hg, I18N (managed translation process with international team).
 
 
 ## Project: Energy Management System
 - Organization: Power Measurement Ltd (now Schneider Electric)
-- 1996 - 2004
+- 1996 - 2001
 - Position Outcomes:
     - Application development providing components of the PML flagship energy management system
     - Embedded software development with a specialty on serial and TCP communications systems
@@ -161,7 +150,7 @@ SQL, ETL, Mobile responsive design,
 
 ## Project: Customer service issue management system
 - Organization: Power Measurement Ltd (now Schneider Electric)
-- 1996 - 2004
+- 2002 - 2004
 - Position Outcomes:
     - Built software to automate handling of incoming and outgoing email (Microsoft Exchange/Outlook) with 
     the company's CRM (onyx)
@@ -172,12 +161,9 @@ SQL, ETL, Mobile responsive design,
 ## Project: Mainframe application refactoring
 - Organization: Ministry of Forests
 - 1991
-- Objectives: This is a very old and small project yet it demonstrates previous exposure and working with 
-what is now called a legacy system. It also demonstrates Bryan's enjoyment in finding creative solutions that
-provide value.
+- Objectives: This is a very old and small project yet it demonstrates previous exposure and working with a legacy system. It also demonstrates Bryan's enjoyment in finding creative solutions that provide value.
 - Position Outcomes:
-    - The mainframe application software was limited to seven character variable names. As a coop student 
-    Bryan was hired to manually located and changed several hundred of these variables.
+    - The mainframe application software was limited to seven character variable names. As a coop student Bryan was hired to manually located and changed several hundred of these variables.
     - Showed self initiative and learned the mainframe's scripting language.
     - Implemented a process to automate the refactoring.
     - Ensured the renaming process was completely accurate
