@@ -10,7 +10,7 @@ suggested using markdown like we use in git repositories.  Since all of the info
 profile it seemed reasonable to make a public repo with my CV using markdown.
 
 - [About Me](/about.md)
-- [My Projects](/projects/md)
+- [My Projects](/projects.md)
 - [References](/refs.md)
 
 
