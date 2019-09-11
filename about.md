@@ -20,7 +20,7 @@ Bryan is a collaborative team player with advanced agile software development ex
 - restaurant
 
 ## Interests:
-- Co-housing [Ravens Crossing Cohousing](https://ravenscrossingchousing.ca)
+- Co-housing [Ravens Crossing Cohousing](https://www.ravenscrossingcohousing.ca/)
 - Spanish - intermediate level II
 - sailing - 25+ yrs
 - running - 10kms and half marathons

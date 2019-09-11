@@ -2,20 +2,29 @@
 
 > a CV for Bryan Gilbert, B.Sc.(Hon), M.Sc. -- a full stack DevSecOps developer
 
-## Project: MeetUp -- DevOp Full Stack Development MeetUp
-- Since May 2019
-- https://www.meetup.com/DevOp-Full-Stack-Development-Meetup/
-- Objective: Explore aspects of full stack DevOps with a focus on these technologies: 
-Docker, Node.js, Express, MongoDB, and Vue.js. 
+## Project: DevOp MeetUp
+> A MeetUp group for DevOp full stack development
+- Started May 2019
+- [MeetUp website](https://www.meetup.com/DevOp-Full-Stack-Development-Meetup/)
+- Objective: Explore various aspects of full stack DevSecOps with a focus on these technologies: 
+Docker, Security, Node.js, Express, MongoDB, and Vue.js
     - Open to all levels of experience and interest. 
     - This is a chance to share knowledge and to learn from others. 
-    - Providing workshops for people to learn these technologies.
+    - We have semi-regular table discussions and 
+    - members are welcome to host workshops on topics they wish to share.
+- Past and planned workshop topics
+    - Basic server setup and security
+    - Basic Docker
+    - Docker Compose, security and environment variables
 
 
-## Project: BCcampus -- Educational Electronic Health Record System (EdEHR)
+## Project: BCcampus - EdEHR
+> Educational Electronic Health Record System (EdEHR)
 - Organization: BCcampus
-- 2018, 1 year
-- Objective: develop an open-source pilot ready application that simulates an electronic health record system similar to that used in hospitals for use in a post secondary medical education.  Until now medical students had no exposure to this critical technological aspect of their profession.
+- 2018, 13 months
+- Objective: develop an open-source pilot ready application that simulates an electronic health record system similar 
+to that used in hospitals for use in a post secondary medical education.  Until now medical students had no exposure to 
+this critical technological aspect of their profession.
 
 - Position Outcomes:
     - Under the direction of the Product Owner, lead the planning, analysis, 
@@ -45,13 +54,24 @@ UFW, HTTPs, Jade (Pug), Docker, Docker-compose, MongoDB, SCSS,  Git, Mocha, Chai
 
 - References available on request
 
+## Project: React in a day
+- 2018, 1 day
+- Objective: Complete an assignment within 24 hours to demonstrate technical ability.
+- Situation: The assignment required React.  Unfortunately, Bryan had no exposure or experience
+with React or the React environment. He could've declined the assignment but instead he took the challenge to
+not only do the assignment within the time period but to learn React too.  React is considered a moderately 
+difficult system to learn and most say to allow several weeks to gain basic proficiency.
+- Position Outcomes:
+    - Learned how to create, develop and deploy a React application (with Babel and Webpack).
+    - Make API calls to retrieve data from other sites
+    - React work completed on time. Provided a complete installable open source repository with the results:
+        - https://github.com/bryan-gilbert/assignments
 
-
-## Project: EAO 
+## Project: EAO -
 > Information & Collaboration System (EPIC) of the BC Environmental Assessment Office, and 
 
 > Major Mines Transparency Project of the Ministry of Energy and Mines
-- Organization: Quartech Technologies to BC Gov
+- Organization: Quartech Technologies to BC Government
 - 2017, 6 months
 - Objective: replace legacy information system with a modern technology stack that supports 
 continuous delivery and integration of digital products through DevOps practices.  
@@ -67,21 +87,22 @@ information.
 where developers are encouraged to experiment with modern product delivery tools and 
 techniques including: the Agile Methodology, human-centred design, open source programming 
 languages and frameworks, and a cutting-edge enterprise containerization platforms. 
-    - Provide full stack MEAN development skills (MongoDB, Express, Angular, Node) 
-    - Add features and perform maintenance on the applications using Angular, Javascript, NodeJS, MongoDb, Mongoose, Openshift, etc.
     - Agile team consisted of key ministry personal, project management, developers and DevOps
-    - 7th top contributor to ESM-server project (139 total contributors since 2013)
-    - 10th top contributor to MEM project (137 total contributors since 2013)
-    - Create tools to perform extract transform load (ETL) tasks
-    - Mentor less experienced team members
-    - Automate importation of documents provided by ministry
-    - Back end data modelling
-    - Front end UI, data processing, manipulation, display and downloads
-    - Prototyping 
+    - Bryan provided
+        - Full stack MEAN development skills (MongoDB, Express, Angular, Node) 
+        - Add features and perform maintenance on the applications using Angular, Javascript, NodeJS, MongoDb, Mongoose, Openshift, etc.
+        - 7th top contributor to ESM-server project (139 total contributors since 2013)
+        - 10th top contributor to MEM project (137 total contributors since 2013)
+        - Create tools to perform extract transform load (ETL) tasks
+        - Mentor less experienced team members
+        - Automate importation of documents provided by ministry
+        - Back end data modelling
+        - Front end UI, data processing, manipulation, display and downloads
+        - Prototyping 
 
 - Technical skills: Angular, JavaScript, SCSS, CSS, JSON, RESTful APIs, MongoDB, ETL, Nginx, WebStorm, Git, OpenShift, Agile, Scrum, Slack, JIRA, Continuous Integration.
  
-- Reference as mentor available on request.
+- Reference available on request
 
 ## Project: Carmanah CRM 
 > Custom case management system
