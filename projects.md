@@ -4,6 +4,7 @@
 
 ## Project: DevOp MeetUp
 > A MeetUp group for DevOp full stack development
+
 - Started May 2019
 - [MeetUp website](https://www.meetup.com/DevOp-Full-Stack-Development-Meetup/)
 - Objective: Explore various aspects of full stack DevSecOps with a focus on these technologies: 
@@ -20,6 +21,7 @@ Docker, Security, Node.js, Express, MongoDB, and Vue.js
 
 ## Project: BCcampus - EdEHR
 > Educational Electronic Health Record System (EdEHR)
+
 - Organization: BCcampus
 - 2018, 13 months
 - Objective: develop an open-source pilot ready application that simulates an electronic health record system similar 
@@ -71,6 +73,7 @@ difficult system to learn and most say to allow several weeks to gain basic prof
 > Information & Collaboration System (EPIC) of the BC Environmental Assessment Office, and 
 
 > Major Mines Transparency Project of the Ministry of Energy and Mines
+
 - Organization: Quartech Technologies to BC Government
 - 2017, 6 months
 - Objective: replace legacy information system with a modern technology stack that supports 
@@ -106,6 +109,7 @@ languages and frameworks, and a cutting-edge enterprise containerization platfor
 
 ## Project: Carmanah CRM 
 > Custom case management system
+
 - Organization: Carmanah Technologies
 - 2012, 6 years
 - Objective: Implement a new case management system, in Salesforce, to reduce the work load and increase 
@@ -124,6 +128,7 @@ programming language), Salesforce Object Query Language (SOQL)
 
 ## Project: Carmanah Solar CTO 
 > Custom solar product configure to order (CTO) for integration with Salesforce CRM and Oracle EBS Configurator.
+
 - Organization: Carmanah Technologies
 - 2009, 4 years
 - Position Outcomes:
@@ -146,6 +151,7 @@ SQL, ETL, Mobile responsive design,
  
 ## Project: Carmanah satellite monitoring system
 > Global satellite monitoring system for marine solar powered lanterns.
+
 - Organization: Carmanah Technologies
 - 2013, 1.5 years
 - Position Outcomes:
@@ -175,6 +181,7 @@ SQL, ETL, Mobile responsive design,
 
 ## Project: PML -- CRM
 > Customer service issue management system
+
 - Organization: Power Measurement Ltd (now Schneider Electric)
 - 2002, 3 years
 - Position Outcomes:
