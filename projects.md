@@ -67,7 +67,7 @@ difficult system to learn and most say to allow several weeks to gain basic prof
     - Learned how to create, develop and deploy a React application (with Babel and Webpack).
     - Make API calls to retrieve data from other sites
     - React work completed on time. Provided a complete installable open source repository with the results:
-        - https://github.com/bryan-gilbert/assignments
+        - [https://github.com/bryan-gilbert/assignments](https://github.com/bryan-gilbert/assignments)
 
 ## Project: EAO -
 > Information & Collaboration System (EPIC) of the BC Environmental Assessment Office, and 
@@ -79,9 +79,9 @@ difficult system to learn and most say to allow several weeks to gain basic prof
 - Objective: replace legacy information system with a modern technology stack that supports 
 continuous delivery and integration of digital products through DevOps practices.  
 - These are open-source projects:  
-    - https://github.com/bcgov/esm-server
-    - https://github.com/bcgov/mem-admin
-    - https://github.com/bcgov/mem-mmti
+    - [https://github.com/bcgov/esm-server](https://github.com/bcgov/esm-server)
+    - [https://github.com/bcgov/mem-admin](https://github.com/bcgov/mem-admin)
+    - [https://github.com/bcgov/mem-mmti](https://github.com/bcgov/mem-mmti)
 - Position Outcomes:
     - Achieve improved efficiency and transparency of the provincial environmental assessment 
 processes that provide citizens and stakeholders with more intuitive access to project data and 
