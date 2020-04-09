@@ -11,21 +11,21 @@ Bryan has been in the software field for 20yrs. He has close to 10 years of expe
 
 Bryan is a valuable mentor and enjoys exploring ways to improve how we learn. Recently he started a meetup group and he has hosted open workshops for people to learn more about DevOps and Full Stack development.
 
-Bryan’s has well over 10 years worth of experience with 
+Bryan’s has well over 10 years' experience with 
 - Agile development team
 - RESTful APIs
-- DevOps (a type of agile relationship between development and IT operations)
+- DevOps
 - Continuous delivery pipelines and processes to deliver incremental value
 - Automated testing
-- Containerization (including Java OSGi plugins, Tomcat, Docker, Docker-Compose and Openshift)
+- Containerization (including Java OSGi plugins, Tomcat, Docker, Docker-Compose and OpenShift)
 
-Bryan’s has 1.5 years worth of experience specifically with
+Bryan has three years' experience working with
 - Open source projects
-- Containerization using specifically Docker, Docker Compose and Openshift
+- Containerization using Docker, Docker Compose and Openshift
 
 ## Education:
 
-- Masters of Science, in Computer Science
+- Master of Science, in Computer Science
     - University of Victoria 
     - Thesis on Network Reliability
     - Recipient of the University of Victoria Graduate Fellowship
@@ -44,7 +44,7 @@ Bryan’s has 1.5 years worth of experience specifically with
 ## Interests:
 - Co-housing [Ravens Crossing Cohousing](https://www.ravenscrossingcohousing.ca/)
 - Spanish - intermediate level II
-- sailing - 25+ yrs
+- sailing - 25+ years
 - running - 10kms and half marathons
 - climbing
 - environmentally responsive investing
