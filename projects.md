@@ -37,7 +37,7 @@
 ## Project: BattleSnake
 > Python, FastAPI web server
 
-https://dashboard.heroku.com/apps
+[https://dashboard.heroku.com/apps](https://dashboard.heroku.com/apps)
 
 As a challenge and for fun I joined the world of BattleSnake.  This is such a cool idea because beginner programmers can start small and more experienced developers work on their design and algorithm skills. A BattleSnake is a web server that minimally responds to a "move" web service call. The BattleSnake game displays a grid (say 11 by 11) and up to eight snakes (different web servers). The game consists of a sequence of moves; each move being a web service call to each of the web servers. Each server responds with the best move it can determine for its snake. Each snake is moved and it dies if it hits another snake, goes out of bounds or butt heads with another snake the same size or bigger.  The game ends when there is one surviving snake. Oh, it's important to know that each web service call must complete within one half second or the game will decide which way your snake will move.
  
@@ -46,7 +46,7 @@ Because this is so simple and because so many people have provided starters, tut
 
 Unlike other people's work my web server is written in Python using the FastAPI with Pydantic.  I've also designed my own algorithms to create a snake that is quite competitive agains some other proficient snakes. 
 
-https://github.com/bryan-gilbert/starter-snake-python
+[https://github.com/bryan-gilbert/starter-snake-python](https://github.com/bryan-gilbert/starter-snake-python)
 
 ## Project: BCcampus - EdEHR
 > Solutions architect and MEVN full stack DevOps developer
@@ -62,7 +62,7 @@ https://github.com/bryan-gilbert/starter-snake-python
     - Working with a remote developer Byran is continuing to add improvements; including medication prescription and administration and JWT web security.
     - Under the direction of the Product Owner, lead the planning, analysis, architecture, development, quality management and support of the new system
     - Ensure the project is open source so that all can benefit
-        - https://github.com/BCcampus/edehr
+        - [https://github.com/BCcampus/edehr](https://github.com/BCcampus/edehr)
     - As part of an Agile team collaborate with the Product Owner, UX designer, BCcampus staff, the Project Steering Committee and other stakeholders to understand project objectives and business and system requirements
     - Incrementally deliver value to achieve the objectives of the stakeholders
     - Develop ‘full-stack’ (including database, models, views/UI, controllers, RESTful APIs) web application to meet project objectives and system requirements

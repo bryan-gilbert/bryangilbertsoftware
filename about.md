@@ -33,7 +33,7 @@ Bryan recently completed the Certified Scrum Master - Virtual training
     - Recipient of the University of Victoria Graduate Fellowship
 - Bachelor of Science, Honors, in Computer Science
     - University of Victoria 
-- OpenShift 101 - March 18 & 19, 2019 at the CSI Lab - BCDevExchange (http://content-devops-platform-workshops.lab.pathfinder.gov.bc.ca/)
+- OpenShift 101 - March 18 & 19, 2019 at the CSI Lab - [http://content-devops-platform-workshops.lab.pathfinder.gov.bc.ca/]()BCDevExchange)
 - Instructor and author of two DevOps workshop. Basic Docker Sep 24 2019 and Small scale production ready apps May 14 2019
 
 
