@@ -5,7 +5,7 @@
 
 Bryan is entrepreneurial and brings a breath of fresh air to the team. He is easy to get along with and very helpful. He is a collaborative team player with advanced agile software development skills.  He enjoys listening to stakeholders and then finding creative solutions to complex business problems. He is open minded and resourceful, self-motivated and dedicated to building a quality product.  Key value words that fit Bryan include; open, helpful, sharing, respectful, accountable, and results oriented. He works well under pressure, effectively meets deadlines and enjoys working within in a consensus-based environment. 
 
-Bryan has been in the software field for 20yrs. He has close to 10 years of experience working with modern languages, frameworks and tools including: JavaScript, CSS, SASS, MySQL, MongDb, NodeJs, Express, Angular, Vue.js, and many more older technologies.
+Bryan has been in the software field for 20+ yrs and for 10 years has been working with modern languages, frameworks and tools including: Vue, NodeJs, JavaScript, Python, CSS, SASS, MySQL, MongDb, Express, FastAPI, Angular, React, and more.
 
 “Bryan is a solution provider over software developer. He clarifies the business need, always keeps efficiency/usability/scalability at the forefront of his work, and he has a deep understanding of the software development process.” - A Canty
 
@@ -22,6 +22,8 @@ Bryan’s has well over 10 years' experience with
 Bryan has three years' experience working with
 - Open source projects
 - Containerization using Docker, Docker Compose and Openshift
+
+Bryan recently completed the Certified Scrum Master - Virtual training 
 
 ## Education:
 

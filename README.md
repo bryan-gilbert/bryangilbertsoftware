@@ -3,11 +3,12 @@
 > a CV for Bryan Gilbert, B.Sc.(Hon), M.Sc. -- a full stack DevSecOps developer
 
 
-This github repository was born from the need to refactor my resume from the traditional format that lists
-the companies one worked for into a format that is focused on projects. This format uses a lot of lists and that
-suggested using markdown like we use in git repositories.  Since all of the information in my resume is visible in my 
+Welcome to my online resume.  You can find out more about me via the links below and by visiting my 
 [linkedin](https://www.linkedin.com/in/bryangilbertsoftware) 
-profile it seemed reasonable to make a public repo with my CV using markdown, git and git pages.
+profile.
+
+I'm a software developer with a wide ranging background. I'm also keen to transition to becoming a great agile coach scrum master.  
+
 
 - [About Me](/about.md)
 - [My Projects](/projects.md)

@@ -18,11 +18,11 @@
     - Agile team player.  
     - Part-time facilitator and scrum lead.
     - Ensure quality and adherence to specifications through the use of automated testing
-    - Participate in technical communications with stakeholders
-    - Established strong, productive relationships and contributed to a positive and supportive culture
     - Presentations and demonstrations for stakeholders and other product teams
+    - Established strong, productive relationships and contributed to a positive and supportive culture
+    - Participate in technical communications with stakeholders
     
-- **Tech Stack**: VUE.js, JavaScript, Docker, Docker-compose, SCSS, Git, Jest, OpenShift, Sentry, Launch Darkly, ZenHub, 
+- **Tech Stack**: VUE.js (composition api), JavaScript, Docker, Docker-compose, SCSS, Git, Jest, OpenShift, Sentry, Launch Darkly, ZenHub, 
 
 ## Project: Educational Electronic Health Record System (EdEHR)
 > Product lead, solutions architect and full stack developer
@@ -34,6 +34,20 @@
 - Continue providing enhancements to the EdEHR, including directing and leading a small development team. 
 
 
+## Project: BattleSnake
+> Python, FastAPI web server
+
+https://dashboard.heroku.com/apps
+
+As a challenge and for fun I joined the world of BattleSnake.  This is such a cool idea because beginner programmers can start small and more experienced developers work on their design and algorithm skills. A BattleSnake is a web server that minimally responds to a "move" web service call. The BattleSnake game displays a grid (say 11 by 11) and up to eight snakes (different web servers). The game consists of a sequence of moves; each move being a web service call to each of the web servers. Each server responds with the best move it can determine for its snake. Each snake is moved and it dies if it hits another snake, goes out of bounds or butt heads with another snake the same size or bigger.  The game ends when there is one surviving snake. Oh, it's important to know that each web service call must complete within one half second or the game will decide which way your snake will move.
+ 
+
+Because this is so simple and because so many people have provided starters, tutorials and documentation it is easy for a starting developer to try it out and work with others.  Yet the problem of finding a safe move for your snake is super hard. Many people are adding in machine learning and AI to find the solution.  
+
+Unlike other people's work my web server is written in Python using the FastAPI with Pydantic.  I've also designed my own algorithms to create a snake that is quite competitive agains some other proficient snakes. 
+
+https://github.com/bryan-gilbert/starter-snake-python
+
 ## Project: BCcampus - EdEHR
 > Solutions architect and MEVN full stack DevOps developer
 
@@ -43,6 +57,9 @@
 - Objective: develop an open-source pilot ready application that simulates an electronic health record system similar to that used in hospitals for use in a post secondary medical education.  Until now medical students had no exposure to this critical technological aspect of their profession.
 
 - **Outcomes**:
+    - Recently the EdEHR was successfully used in a classroom with 214 students. These students had no prior experience with this EHR yet the majority completed an in-classroom assignment in less than an hour. The overall response was the application was easy to learn and use.
+    - Development is continuing via funding from BCIT. 
+    - Working with a remote developer Byran is continuing to add improvements; including medication prescription and administration and JWT web security.
     - Under the direction of the Product Owner, lead the planning, analysis, architecture, development, quality management and support of the new system
     - Ensure the project is open source so that all can benefit
         - https://github.com/BCcampus/edehr
