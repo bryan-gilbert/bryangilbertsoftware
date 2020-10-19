@@ -1,5 +1,8 @@
 # Projects
 
+[Home](http://bryangilbert.ca/)
+
+
 > a CV for Bryan Gilbert, B.Sc.(Hon), M.Sc. -- a full stack DevSecOps developer
 
 ## Project: No Password Authorization

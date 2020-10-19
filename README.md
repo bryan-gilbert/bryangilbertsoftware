@@ -9,14 +9,18 @@ profile.
 
 I'm a software developer with a wide ranging background. I'm also keen to transition to becoming a great agile coach scrum master.  
 
-
+Resume:
 - [About Me](/about.md)
 - [My Projects](/projects.md)
 - [References](/refs.md)
 
+Web Sites
+
 - [Eductional Electronic Health Record EdEHR)](https:/edehr.org)
 - [No Password User Authentication](https://npuser.org) (work in progress)
 
+
+Web Presence
 
 - [Github](https://github.com/bryan-gilbert/)
 - [CodePen](https://codepen.io/bgilbert)

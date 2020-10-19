@@ -1,5 +1,7 @@
 # References 
 
+[Home](http://bryangilbert.ca/)
+
 > a CV for Bryan Gilbert, B.Sc.(Hon), M.Sc. -- a full stack DevSecOps developer
 
 The following references are from my [LinkedIn](https://www.linkedin.com/in/bryangilbertsoftware/) page.
