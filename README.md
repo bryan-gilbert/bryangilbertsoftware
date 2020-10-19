@@ -14,5 +14,10 @@ I'm a software developer with a wide ranging background. I'm also keen to transi
 - [My Projects](/projects.md)
 - [References](/refs.md)
 
+- [Eductional Electronic Health Record EdEHR)](https:/edehr.org)
+- [No Password User Authentication](https://npuser.org) (work in progress)
 
 
+- [Github](https://github.com/bryan-gilbert/)
+- [CodePen](https://codepen.io/bgilbert)
+- [LinkedIn](https://www.linkedin.com/in/bryangilbertsoftware)

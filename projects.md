@@ -2,13 +2,20 @@
 
 > a CV for Bryan Gilbert, B.Sc.(Hon), M.Sc. -- a full stack DevSecOps developer
 
+## Project: No Password Authorization
+- Organization: Open source
+- October 2020 to present
+- Situation: Continually encounter the need to add user authentication into projects. 
+
+
+
 ## Project: BC Registries - BC Online PPR Replacement
 > Senior full stack developer
 
 - Organization: BC Registries
 - Project: Personal Property Registry (PPR) mainframe replacement
 - November 2019 to April 2020
-- Situation: Registries was replacing its legacy software applications with a modern technology stack.  Our team began the devlopment of this replacement using DevOps practices of continuous delivery and integration; Agile methodology; human-centred design; open source programming languages and frameworks, and a cutting-edge enterprise containerization platform. This multi-year project was cut short due to budgetary constraints.
+- Situation: Registries was replacing its legacy software applications with a modern technology stack.  Our team began the development  of this replacement using DevOps practices of continuous delivery and integration; Agile methodology; human-centred design; open source programming languages and frameworks, and a cutting-edge enterprise containerization platform. This multi-year project was cut short due to budgetary constraints.
 
 - **Outcomes**:
     - Vue 3-ready front end UI

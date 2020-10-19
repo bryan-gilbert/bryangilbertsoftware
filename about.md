@@ -25,6 +25,14 @@ Bryan has three years' experience working with
 
 Bryan recently completed the Certified Scrum Master - Virtual training 
 
+### Certified Scrum Master (CSM)
+Issuing authority: [Scrum Alliance](https://www.scrumalliance.org/)
+
+Issued date and expiration date: May 2020 Expires May 2022
+
+Credential Identifier: 001071591
+
+
 ## Education:
 
 - Master of Science, in Computer Science
