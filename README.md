@@ -6,9 +6,8 @@ Welcome to my online resume.  You can find out more about me via the links below
 [linkedin](https://www.linkedin.com/in/bryangilbertsoftware) 
 profile.
 
-I'm a software developer with a wide ranging background. I'm also keen to transition to becoming a great agile coach scrum master.  
+I'm a Full Stack DevOp software developer and a certified scrum master. 
 
-## My CV:
 - [About Me](/about.md)
 - [My Projects](/projects.md)
 - [References](/refs.md)
@@ -42,27 +41,8 @@ At this moment [No Password User Authentication](https://npuser.org) is hosted a
 
 
 ## A Few Favorites
-[![6]](https://vuejs.org/)
-
-[![1]](https://nodejs.org/)
-
-[![2]](https://github.com/) 
-
-[![3]](https://www.digitalocean.com/)
-
-[![5]](https://www.npmjs.com)
-
-[![7]](https://www.debian.org/)
-
-[![8]](https://www.mongodb.com/)
+![1]
 
 
-
-[1]: ./logos/nodejs.png 
-[2]: ./logos/GitHub_Logo.png
-[3]: ./logos/digitalocean.png
+[1]: ./FavStack@0.5x.png
 [4]: ./logos/EdEHR.png
-[5]: ./logos/npm-logo-black.png
-[6]: ./logos/Vue.png
-[7]: ./logos/debian-100.png
-[8]: ./logos/mongodb.png
