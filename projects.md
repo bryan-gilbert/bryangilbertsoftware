@@ -8,7 +8,7 @@
 ## Project: No Password Authorization
 - Organization: Open source
 - October 2020 to present
-- Situation: Continually encounter the need to add user authentication into projects. 
+- Situation: Continually encounter the need to add user authentication into projects. This is work-in-progress project.  Watch (https://npuser.org) for information as this project is developed.
 
 
 
