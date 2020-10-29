@@ -25,13 +25,12 @@ is an open-source project that is a post secondary health eduction tool which si
 4. Open sourced case studies to share best practices across institutions.
 5. Customizable to allow for adaptation.
 
-### npauth
+### npuser.org
 
 Like many Full Stack DevOp developers I continually encounter the need to add user authentication
-into smaller projects.  Larger organizations, such as governments, develop sophisticated user authentication and authorization systems and they have the option to leverage 3rd party applications that are expensive and/or complex.  Yet, smaller projects need user authentication too.  ```npauth``` is a work in progress that will solve this problem.
+into smaller projects.  Larger organizations, such as governments, develop sophisticated user authentication and authorization systems and they have the option to leverage 3rd party applications that are expensive and/or complex.  Yet, smaller projects need user authentication too.  ```npuser``` is a work in progress that will solve this problem.
 
-At this moment [No Password User Authentication](https://npuser.org) is hosted at https://npuser.org. The application will soon be migrated to https://npauth.org soon. Both are a work in progress)
-
+At this moment [No Password User Authentication](https://npuser.org) is hosted at https://npuser.org. 
 
 ## Find me on the web
 
@@ -41,8 +40,10 @@ At this moment [No Password User Authentication](https://npuser.org) is hosted a
 
 
 ## A Few Favorites
-![1]
+This image illustrates my favorite tech-stack.  I have many more capabilities than are shown here!  These are simply my current favorites and this list is constantly evolving.
+
+[![1]](./ReallyFavStack.png)
 
 
-[1]: ./FavStack@0.5x.png
+[1]: ./ReallyFavStack@0.5x.png
 [4]: ./logos/EdEHR.png
