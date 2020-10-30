@@ -15,9 +15,8 @@ I'm a Full Stack DevOp software developer and a certified scrum master.
 ## My recent projects
 
 ### EdEHR 
-![4] 
-
-[Educational Electronic Health Record (EdEHR)](https://edehr.org) 
+ 
+[![4] Educational Electronic Health Record (EdEHR)](https://edehr.org) 
 is an open-source project that is a post secondary health eduction tool which simulates an electronic health record system similar to that used in hospitals.  It is unique in several ways.
 1. Tailored to the student (it is not a patient record system)
 2. Canadian focused.
@@ -46,4 +45,4 @@ This image illustrates my favorite tech-stack.  I have many more capabilities th
 
 
 [1]: ./ReallyFavStack@0.5x.png
-[4]: ./logos/EdEHR.png
+[4]: ./ehr.png
