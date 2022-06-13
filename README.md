@@ -6,7 +6,7 @@ Welcome to my online resume.  You can find out more about me via the links below
 [linkedin](https://www.linkedin.com/in/bryangilbertsoftware) 
 profile.
 
-I'm a Full Stack DevOp software developer and a certified scrum master. 
+I'm a Full Stack DevOp software developer and a former certified scrum master. 
 
 - [About Me](/about.md)
 - [My Projects](/projects.md)
@@ -17,12 +17,12 @@ I'm a Full Stack DevOp software developer and a certified scrum master.
 ### EdEHR 
  
 [![4] Educational Electronic Health Record (EdEHR)](https://edehr.org) 
-is an open-source project that is a post secondary health eduction tool which simulates an electronic health record system similar to that used in hospitals.  It is unique in several ways.
-1. Tailored to the student (it is not a patient record system)
-2. Canadian focused.
-3. Open sourced to provide educational institutions with an affordable suuport.
-4. Open sourced case studies to share best practices across institutions.
-5. Customizable to allow for adaptation.
+is an open-source project that is a post secondary health educational application which simulates an electronic health record system similar to that used in hospitals.  It is unique in several ways.
+1. Edehr is tailored to the student (it is not a patient record system)
+2. EdEHR is focused on Canadian medical educational needs.
+3. EdEHR is open sourced to provide educational institutions with affordable options.
+4. EdEHR has open sourced case studies to share across institutions.
+5. EdEHR is customizable to allow for adaptation.
 
 ### npuser.org
 
